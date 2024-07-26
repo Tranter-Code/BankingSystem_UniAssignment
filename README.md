@@ -7,9 +7,9 @@ The program runs in the terminal and provides menus and text prompts for the use
 
 When first running the program, you are prompted to *log in*
 
-**Accounts**
-Username - Password
-Arthur - 123 (Admin)
-Boris - ABC
-Chloe - 1+x
-David - aBC
+**Accounts** <br/>
+Username - Password <br/>
+Arthur - 123 (Admin) <br/>
+Boris - ABC <br/>
+Chloe - 1+x <br/>
+David - aBC <br/>
