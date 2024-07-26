@@ -6,6 +6,7 @@ This project was developed to demonstrate a basic knowledge of computer programm
 The program runs in the terminal and provides menus and text prompts for the user.
 
 When first running the program, you are prompted to *log in*
+
 **Accounts**
 Username - Password
 Arthur - 123 (Admin)
